@@ -169,5 +169,6 @@ $ npx autocorector --upload
 -	**40%:**  El segundo commit de la rama main es “x^4 button” y contiene lo pedido
 
 ### Ana Garrido 
-Primer commit: x^3 button
+Primer commit: x^3 button<br>
+Segundo commit: x^4 button<br>
 
